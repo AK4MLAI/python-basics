@@ -1,0 +1,6 @@
+EmpID,Name,Department,Salary,Country,Experience,Bonus,Category
+101,Ambarish,AI,160000,India,10,15000.0,High
+102,Rajni,HR,60000,India,8,6000.0,Medium
+103,Aditi,Engineering,90000,USA,3,9000.0,Medium
+104,Aayushi,Engineering,95000,Canada,5,9500.0,Medium
+105,John,AI,140000,USA,12,14000.0,High
